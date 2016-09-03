@@ -1,0 +1,28 @@
+2016-09-03 [05:05:35] [Server thread/INFO]: 
+
+		   PocketMine-iTX Genisys is a fork of PocketMine-MP, made by iTX Technologies LLC.
+		   Version: 1.2dev-569
+		   Target client Version: v0.15.0 alpha
+		   Latest source code is available at https://github.com/iTXTech/Genisys
+		   Donate link: http://pl.zxda.net/plugins/203.html
+		
+
+2016-09-03 [05:05:35] [Server thread/INFO]: Loading pocketmine.yml...
+2016-09-03 [05:05:35] [Server thread/INFO]: Loading genisys.yml...
+2016-09-03 [05:05:35] [Server thread/INFO]: Loading server properties...
+2016-09-03 [05:05:35] [Server thread/INFO]: Selected English (eng) as the base language
+2016-09-03 [05:05:35] [Server thread/INFO]: Starting Minecraft: PE server version v0.15.0 alpha
+2016-09-03 [05:05:35] [Server thread/INFO]: Opening server on 0.0.0.0:40508
+2016-09-03 [05:05:35] [Server thread/INFO]: This server is running Genisys version 1.2dev-569 "Ikaros" (API 2.0.0)
+2016-09-03 [05:05:35] [Server thread/INFO]: Genisys is distributed under the GPL License version 3 and later
+2016-09-03 [05:05:35] [Server thread/NOTICE]: Level "world" not found
+2016-09-03 [05:05:35] [Server thread/INFO]: Preparing level "world"
+2016-09-03 [05:05:35] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2016-09-03 [05:05:36] [Server thread/NOTICE]: Level "nether" not found
+2016-09-03 [05:05:36] [Server thread/INFO]: Preparing level "nether"
+2016-09-03 [05:05:36] [Server thread/NOTICE]: Spawn terrain for level "nether" is being generated in the background
+2016-09-03 [05:05:38] [Server thread/INFO]: Starting GS4 status listener
+2016-09-03 [05:05:38] [Server thread/INFO]: Setting query port to 40508
+2016-09-03 [05:05:38] [Server thread/INFO]: Query running on 0.0.0.0:40508
+2016-09-03 [05:05:38] [Server thread/INFO]: Default game type: Survival Mode
+2016-09-03 [05:05:38] [Server thread/INFO]: Done (3.274s)! For help, type "help" or "?"
