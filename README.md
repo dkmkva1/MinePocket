@@ -1,0 +1,2 @@
+# MinePocket
+sever.mcpe.net
